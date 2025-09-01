@@ -38,6 +38,12 @@ The analysis revealed four distinct customer segments with unique spending and u
 * **Jupyter Notebook**: For a reproducible analysis and presentation
 * **GitHub**: For project documentation and version control
 
+## Data Source & Attribution
+
+The dataset used for this project was downloaded from Kaggle and is owned by **Arjun Bhasin**. You can access the original dataset here:
+
+* **Link:** [https://www.kaggle.com/datasets/arjunbhasin2013/ccdata](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
+
 ## Files in this Repository
 
 * `Credit Card Data.csv`: The raw dataset used for this analysis.
